@@ -1,0 +1,12 @@
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/bin/Debug/net8.0/Loan-API.Domain.deps.json
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/bin/Debug/net8.0/Loan-API.Domain.dll
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/bin/Debug/net8.0/Loan-API.Domain.pdb
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/Loan-API.Domain.csproj.AssemblyReference.cache
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/Loan-API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/Loan-API.Domain.AssemblyInfoInputs.cache
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/Loan-API.Domain.AssemblyInfo.cs
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/Loan-API.Domain.csproj.CoreCompileInputs.cache
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/Loan-API.Domain.dll
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/refint/Loan-API.Domain.dll
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/Loan-API.Domain.pdb
+/Users/appleuser/Course/Loan-API/Loan-API.Domain/obj/Debug/net8.0/ref/Loan-API.Domain.dll
